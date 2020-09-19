@@ -27,7 +27,7 @@ SECRET_KEY = '+1zhx_fpkkyj&z+3n!63fx0)og)@h5^7qyr8e0s%c@p8_&t&+l'
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 
-#ADDED COMMENT
+# ADDED COMMENT
 # Martor Configuration
 MARTOR_THEME = 'bootstrap'  # semantic
 MARTOR_ENABLE_LABEL = True
